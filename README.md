@@ -6,7 +6,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 📁 Project Setup and Structure
+##  Project Setup and Structure
 
 ### Step 1: Project Template
 - Start by executing the `template.py` file to create the initial project template, which includes the required folder structure and placeholder files.
@@ -29,7 +29,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 📊 MongoDB Setup and Data Management
+##  MongoDB Setup and Data Management
 
 ### Step 4: MongoDB Atlas Configuration
 1. Sign up for [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and create a new project.
@@ -43,7 +43,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 📝 Logging, Exception Handling, and EDA
+##  Logging, Exception Handling, and EDA
 
 ### Step 6: Set Up Logging and Exception Handling
 - Create logging and exception handling modules. Test them on a demo file `demo.py`.
@@ -53,7 +53,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 📥 Data Ingestion
+##  Data Ingestion
 
 ### Step 8: Data Ingestion Pipeline
 - Define MongoDB connection functions in `configuration.mongo_db_connections.py`.
@@ -73,7 +73,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 🔍 Data Validation, Transformation & Model Training
+##  Data Validation, Transformation & Model Training
 
 ### Step 9: Data Validation
 - Define schema in `config.schema.yaml` and implement data validation functions in `utils.main_utils.py`.
@@ -86,7 +86,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 🌐 AWS Setup for Model Evaluation & Deployment
+##  AWS Setup for Model Evaluation & Deployment
 
 ### Step 12: AWS Setup
 1. Log in to the AWS console, create an IAM user, and grant `AdministratorAccess`.
@@ -105,7 +105,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 🚀 Model Evaluation, Model Pusher, and Prediction Pipeline
+##  Model Evaluation, Model Pusher, and Prediction Pipeline
 
 ### Step 14: Model Evaluation & Model Pusher
 - Implement model evaluation and deployment components.
@@ -116,7 +116,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 🔄 CI/CD Setup with Docker, GitHub Actions, and AWS
+##  CI/CD Setup with Docker, GitHub Actions, and AWS
 
 ### Step 16: Docker and GitHub Actions
 1. Create `Dockerfile` and `.dockerignore`.
@@ -137,13 +137,13 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 🛠️ Additional Resources
+##  Additional Resources
 - **Crash Course on setup.py and pyproject.toml**: See `crashcourse.txt` for details.
 - **GitHub Secrets**: Manage secrets for secure CI/CD pipelines.
 
 ---
 
-## 🎯 Project Workflow Summary
+##  Project Workflow Summary
 
 1. **Data Ingestion** ➔ **Data Validation** ➔ **Data Transformation**
 2. **Model Training** ➔ **Model Evaluation** ➔ **Model Deployment**
@@ -151,15 +151,8 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ---
 
-## 💬 Connect
-If you found this project helpful or have any questions, feel free to reach out!
+##  Connect
 
----
+# MLOps-Project-Vehicle-Insurance diagram
+blob:https://chatgpt.com/098a6c45-c29c-4bb6-9dac-01c2ad3bffc9
 
-This README provides a structured walkthrough of the MLOps project, showcasing the end-to-end pipeline, cloud integration, CI/CD setup, and robust data handling capabilities.
-=======
-# MLOps-Project-Vehicle-Insurance
->>>>>>> 3d7af1470daacbf9c56d7e061c97267d08fa4bcb
-=======
-# MLOps-Project-Vehicle-Insurance
->>>>>>> ddc0d2d70118dbe106fd1ee7bf03f42d2544dc66
