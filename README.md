@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLOps Project - Vehicle Insurance Data Pipeline
 
 Welcome to this MLOps project, designed to demonstrate a robust pipeline for managing vehicle insurance data. This project aims to impress recruiters and visitors by showcasing the various tools, techniques, services, and features that go into building and deploying a machine learning pipeline for real-world data management. Follow along to learn about project setup, data processing, model deployment, and CI/CD automation!
@@ -155,3 +156,6 @@ If you found this project helpful or have any questions, feel free to reach out!
 ---
 
 This README provides a structured walkthrough of the MLOps project, showcasing the end-to-end pipeline, cloud integration, CI/CD setup, and robust data handling capabilities.
+=======
+# MLOps-Project-Vehicle-Insurance
+>>>>>>> 3d7af1470daacbf9c56d7e061c97267d08fa4bcb
